@@ -4,7 +4,7 @@ This provides the CAD and the STL for a rebuild of the vacuum adapter for the  P
 
 Actually, I do not own this machine but rather construced and printed it for a friend. The angle for the hose is a little off, though, as in this construction it is about 10deg too steep. However, it should fit.
 
-!(pic/printout.jpg)
+![printed out part](pic/printout.jpg)
 
 I used 90% PLA with support to print the adaper as strong as possible.
 
